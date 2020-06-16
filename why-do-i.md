@@ -1,6 +1,7 @@
 ---
 title: Why do I write spoiler-free guides?
 released: 2020-06-16
+author: Juho Rutila
 ---
 
 No one really knows. It is just something that inspires me to act.
