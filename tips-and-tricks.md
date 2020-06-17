@@ -39,3 +39,7 @@ But leave the actual hints to the hints.
 If your guide is about getting an item and the same place, that the player gets to open access to, contains other items leave them out.
 I count that as spoiling that you say "oh, while you take the hammer, take the nails, also".
 Maybe if it is just about picking up something you can tell about them. But only write the minimum hints to get what is the topic of the guide.
+
+## Next steps
+Avoid writing next steps into the hints. The player is interested getting the hammer. It might not be clear to them, yet, where to use the hamer.
+By saying to the end something like: "Now you have the hammer. Go forth and hammer that house down." you actually spoil the game for the player.
