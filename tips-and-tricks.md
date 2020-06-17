@@ -1,7 +1,7 @@
 ---
 title: Tips and tricks for writing good spoiler-free hints
 author: Juho Rutila
-release: 2020-06-17
+released: 2020-06-17
 ---
 
 The most important thing about writing NGH hints is that they are actually _spoiler-free_.
