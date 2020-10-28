@@ -9,6 +9,5 @@ I also collect site usage analytics and I can also see what Google searches lead
 
 And it is the [Golden Dragon of Invisibility](http://www.nicegamehints.com/guide/chaos-on-deponia/02-part-two/055-golden-dragon) guide from Chaos on Deponia game.
 
-In the puzzle Rufus is supposed to get this Golden Dragon of Invisibility from an underground shop. The problem is that Shop-O-Mat, a robot clerk who has confisticated the original
-clerk, is watching closely what Rufus is doing. On top of that the Golden Dragon of Invisibility is... invisible! Though, it is, supposedly, standing on that stand.
+In the puzzle Rufus is supposed to get this Golden Dragon of Invisibility from an underground shop. The problem is that Shop-O-Mat, a robot clerk who has confisticated the original clerk, is watching closely what Rufus is doing. On top of that the Golden Dragon of Invisibility is... invisible! Though, it is, supposedly, standing on that stand.
 Luckily, Rufus is allowed to test the other gadgets (not the Dragon!) before he decides to buy them. I won't tell more about the puzzle, but clearly players are having hard time with it.
